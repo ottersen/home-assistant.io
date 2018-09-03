@@ -35,7 +35,7 @@ Under the **Realtime Web Upload** header:
 - Enter an email address in **User Email Address**.
 - Optionally set the **Web Logging Interval**. The 2-second default may quickly fill up the Home Assistant history database.
 
-### {% linkable_title Configuration %}
+## {% linkable_title Configuration %}
 
 Add the following to your `configuration.yaml` file:
 
