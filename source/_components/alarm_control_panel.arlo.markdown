@@ -17,6 +17,8 @@ The `arlo` alarm control panel allows you to control your [Arlo](https://arlo.ne
 
 To get your [Arlo](https://arlo.netgear.com/) base stations working within Home Assistant, please follow the instructions for the general [Arlo component](/components/arlo).
 
+## {% linkable_title Configuration %}
+
 Once you have enabled the [Arlo component](/components/arlo), add the following to your `configuration.yaml` file:
 
 ```yaml
