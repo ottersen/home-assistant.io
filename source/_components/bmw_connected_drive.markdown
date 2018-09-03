@@ -16,6 +16,8 @@ The `bmw_connected_drive` component lets you retrieve data on your BMW vehicle f
 
 For compatibility with your BMW vehicle check the [bimmer_connected page](https://github.com/m1n3rva/bimmer_connected) on github.
 
+## {% linkable_title Configuration %}
+
 To enable this component in your installation, add the following to your
 `configuration.yaml` file:
 
