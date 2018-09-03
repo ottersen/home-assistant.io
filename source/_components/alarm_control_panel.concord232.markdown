@@ -16,6 +16,8 @@ The `concord232` platform provides integration with GE, Interlogix (and other br
 
 To use this platform, you will need to have the external concord232 client and server installed. The server must be running on the device which is connected to the automation module's serial port. The client must be installed on the machine running Home Assistant. These may often be the same machine, but do not have to be. For additional details in setting up and testing the client and server, see <https://github.com/JasonCarter80/concord232>
 
+## {% linkable_title Configuration %}
+
 To enable this platform in Home Assistant, add the following lines to your `configuration.yaml`:
 
 ```yaml
